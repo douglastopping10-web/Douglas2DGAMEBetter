@@ -1,0 +1,21 @@
+# Ignore Visual Studio cache
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# Debug and release folders
+Debug/
+Release/
+
+# Cache and temp
+*.log
+*.cache
+*.pdb
+
+# Other junk
+*.dbmdl
+*.dbproj.schemaview
