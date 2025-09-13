@@ -1,0 +1,22 @@
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\obj\Debug\net8.0-windows\Test 2dScroler_MarkupCompile.cache
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\bin\Debug\net8.0-windows\Test 2dScroler.exe
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\bin\Debug\net8.0-windows\Test 2dScroler.deps.json
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\bin\Debug\net8.0-windows\Test 2dScroler.runtimeconfig.json
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\bin\Debug\net8.0-windows\Test 2dScroler.dll
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\bin\Debug\net8.0-windows\Test 2dScroler.pdb
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\obj\Debug\net8.0-windows\Test 2dScroler_MarkupCompile.lref
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\obj\Debug\net8.0-windows\Test 2dScroler.g.resources
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\obj\Debug\net8.0-windows\Test 2dScroler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\obj\Debug\net8.0-windows\Test 2dScroler.AssemblyInfoInputs.cache
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\obj\Debug\net8.0-windows\Test 2dScroler.AssemblyInfo.cs
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\obj\Debug\net8.0-windows\Test 2dScroler.csproj.CoreCompileInputs.cache
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\obj\Debug\net8.0-windows\Test 2dScroler.dll
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\obj\Debug\net8.0-windows\refint\Test 2dScroler.dll
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\obj\Debug\net8.0-windows\Test 2dScroler.pdb
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\obj\Debug\net8.0-windows\Test 2dScroler.genruntimeconfig.cache
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\obj\Debug\net8.0-windows\ref\Test 2dScroler.dll
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\bin\Debug\net8.0-windows\Images\Spikes.png
+C:\Users\toppi\source\repos\Test 2dScroler\Test 2dScroler\obj\Debug\net8.0-windows\Test 2dScroler_Content.g.cs

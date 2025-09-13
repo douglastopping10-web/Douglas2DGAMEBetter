@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toppi\\source\\repos\\Test 2dScroler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD58895C-1BAE-4E43-A21B-D89881DDD0EF}|Test 2dScroler\\Test 2dScroler.csproj|c:\\users\\toppi\\source\\repos\\test 2dscroler\\test 2dscroler\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD58895C-1BAE-4E43-A21B-D89881DDD0EF}|Test 2dScroler\\Test 2dScroler.csproj|solutionrelative:test 2dscroler\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD58895C-1BAE-4E43-A21B-D89881DDD0EF}|Test 2dScroler\\Test 2dScroler.csproj|c:\\users\\toppi\\source\\repos\\test 2dscroler\\test 2dscroler\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD58895C-1BAE-4E43-A21B-D89881DDD0EF}|Test 2dScroler\\Test 2dScroler.csproj|solutionrelative:test 2dscroler\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD58895C-1BAE-4E43-A21B-D89881DDD0EF}|Test 2dScroler\\Test 2dScroler.csproj|c:\\users\\toppi\\source\\repos\\test 2dscroler\\test 2dscroler\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD58895C-1BAE-4E43-A21B-D89881DDD0EF}|Test 2dScroler\\Test 2dScroler.csproj|solutionrelative:test 2dscroler\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 439,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\toppi\\source\\repos\\Test 2dScroler\\Test 2dScroler\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Test 2dScroler\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\toppi\\source\\repos\\Test 2dScroler\\Test 2dScroler\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "Test 2dScroler\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAmwKYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:11:31.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 94,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "8188c90a-951a-4c70-8ecf-4b24729ecff5",
+        "Display": 0,
+        "X": -121,
+        "Y": 209,
+        "Width": 1504,
+        "Height": 1107,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\toppi\\source\\repos\\Test 2dScroler\\Test 2dScroler\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Test 2dScroler\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\toppi\\source\\repos\\Test 2dScroler\\Test 2dScroler\\MainWindow.xaml",
+              "RelativeToolTip": "Test 2dScroler\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-13T11:01:38.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\toppi\\source\\repos\\Test 2dScroler\\Test 2dScroler\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Test 2dScroler\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\toppi\\source\\repos\\Test 2dScroler\\Test 2dScroler\\MainWindow.xaml",
+              "RelativeToolTip": "Test 2dScroler\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-13T11:01:50.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
